@@ -1,3 +1,8 @@
 # SeLiga
-Equipe 
--[Eduarda]
+Equipe:
+-Marcos
+-Eduarda
+
+
+
+
